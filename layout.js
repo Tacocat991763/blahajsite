@@ -103,10 +103,10 @@ const sidebarEl1 = `
         <h2>Navigation</h2>    
             <nav class="sidebar-menu">
                 <details class="menu-group">
-                    <summary>website</summary>
+                    <summary>main</summary>
                     <a href="index.html">home</a>
                     <a href="aboutsite.html">about site</a>
-                    <a href="updates.html">updates</a>
+                    <a href="history.html">history</a>
                     <a href="credits.html">credits</a>
                 </details>
 
