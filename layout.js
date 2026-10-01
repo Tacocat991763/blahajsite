@@ -111,10 +111,10 @@ const sidebarEl1 = `
                 </details>
 
                 <details class="menu-group">
-                    <summary>coding/projects</summary>
-                    <a href="tools.html">tools</a>
-                    <a href="codes.html">codes</a>
-                    <a href="tutorials.html">tutorials</a>
+                    <summary>BLAHAJ!!!</summary>
+                    <a href="games.html">games</a>
+                    <a href="art.html">art</a>
+                    <a href="whereto.html">where to buy blahajs</a>
                 </details>
                 <details class="menu-group">
                     <summary>me</summary>
@@ -136,11 +136,18 @@ const sidebarEl1 = `
 const sidebarEl2 = `
     <rightsidebar>
         <h2>Random Stuff</h2>
-        <p>Help me parent my tamaNOTchi. Please. I haven't slept in days I need help.</p>
-        <a href="https://tamanotchi.world/38336c"><img src="https://tamanotchi.world/i2/38336" alt="It's tamaNOTchi! Click to feed!"></a>
-        <a href="https://tamanotchi.world/38354c"><img src="https://tamanotchi.world/i2/38354" alt="It's tamaNOTchi! Click to feed!"></a>
+        <p>Poem:</p>
+        <p>Roses are red,</p>
+        <p>Violets are blue,</p>
+        <p>Blahajs are cute,</p>
+        <p>and they will attac u</p>
+        <p>Wasn't that a beautiful poem.</p>
         <br>
-        <p>Hit counter</p>
-        <script type="text/javascript" src="https://counter.websiteout.com/js/24/6/0/0"></script>
+        <p>Other poem:</p>
+        <p>No Sense, A Haiku</p>
+        <p>The title is right</p>
+        <p>I have not been named Dave</p>
+        <p>Am i microwave?</p>
+        
     </rightsidebar>
 `;
